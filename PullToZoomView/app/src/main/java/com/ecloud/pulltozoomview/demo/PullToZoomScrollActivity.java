@@ -23,6 +23,9 @@ import com.ecloud.pulltozoomview.PullToZoomScrollViewEx;
  * 2014/9/4        ZhuWenWu            1.0                    1.0
  * Why & What is modified:
  */
+
+
+
 public class PullToZoomScrollActivity extends ActionBarActivity {
 
     private PullToZoomScrollViewEx scrollView;
